@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeSurfer3022/Basic-Informational-Site.git"
+    "url": "git+https://github.com/chandraprakash-dev/Basic-Informational-Site.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodeSurfer3022/Basic-Informational-Site/issues"
+    "url": "https://github.com/chandraprakash-dev/Basic-Informational-Site/issues"
   },
-  "homepage": "https://github.com/CodeSurfer3022/Basic-Informational-Site#readme",
+  "homepage": "https://github.com/chandraprakash-dev/Basic-Informational-Site#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
